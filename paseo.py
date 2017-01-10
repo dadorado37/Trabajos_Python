@@ -243,8 +243,8 @@ while seleccion_menu_uno >= 1 and seleccion_menu_uno > 3:
 	
 	menu_uno = {1 : uno,  
 	            2 : dos,   
-				3 : tres,
-				0 : salir,}
+		    3 : tres,
+	            0 : salir,}
 	while 1:
 	
 		print "Cupo Maximo Para Viajar a Montenegro es de 300 personas"
